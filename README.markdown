@@ -1,6 +1,6 @@
 # Oct2-Orange
 
-An orange version of OCT2, a modified version of octopress classic theme.
+An orange version of [OCT2](https://github.com/bijumon/oct2/), a modified version of [Octopress](http://octopress.org/) classic theme.
 
 ![Oct2-Orange screenshot](https://raw.github.com/roberto/oct2-orange/master/screenshot.png)
 
